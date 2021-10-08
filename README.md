@@ -1,6 +1,6 @@
 RPC 远程调用浏览器函数
 
-原文介绍地址: [RPC远程调用浏览器函数](https://kuizuo.cn/RPC%E8%B0%83%E7%94%A8%E6%B5%8F%E8%A7%88%E5%99%A8)
+原文介绍地址: [RPC远程调用浏览器函数](https://kuizuo.cn/RPC%E8%BF%9C%E7%A8%8B%E8%B0%83%E7%94%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E5%87%BD%E6%95%B0)
 
 ## 安装
 
